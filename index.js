@@ -196,6 +196,8 @@ console.log(`Number of students: ${students.length}`)
 console.log(students[0])
 console.log(students[0].firstName)
 console.log(students[11].lastName)
+console.log(students[11].lastName)
+
 
 
 // students.forEach((student, index) => {
